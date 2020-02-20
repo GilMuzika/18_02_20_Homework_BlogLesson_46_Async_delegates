@@ -1,0 +1,9 @@
+﻿<Application x:Class="_18_02_20_Homework_BlogLesson_46_Async_delegates.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_18_02_20_Homework_BlogLesson_46_Async_delegates"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

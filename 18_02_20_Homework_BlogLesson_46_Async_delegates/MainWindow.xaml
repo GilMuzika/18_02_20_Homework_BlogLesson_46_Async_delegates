@@ -1,0 +1,18 @@
+﻿<Window x:Class="_18_02_20_Homework_BlogLesson_46_Async_delegates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_18_02_20_Homework_BlogLesson_46_Async_delegates"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <Button x:Name ="btnPiButton" Margin="200,284,236,35" Content="Pi">
+
+        </Button>
+        <Button x:Name ="btnStringButton" Margin="200,76,236,190" Content="String">
+
+        </Button>
+    </Grid>
+</Window>
